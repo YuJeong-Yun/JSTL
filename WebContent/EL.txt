@@ -32,3 +32,16 @@ EL(Expression Language) 표현식 언어
 	+  -  *  /(div)  %(mod)	: 산술 연산
 	&&(and)  ||(or)  !(not)	: 논리 연산
 	==(eq)  !=(ne)  <(lt)  >(gt)  <=(le)  >=(ge)	: 비교 연산
+	
+	
+	
+	
+	
+	
+* 프로그래밍 실행 순서
+	
+	JAVA(jsp) -> JSTL/EL -> HTML -> JavaScript
+	
+	- JSTL에서는 JS값을 사용 X
+	- JS값을 JSTL에서 사용 O
+	
